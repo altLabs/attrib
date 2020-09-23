@@ -1,5 +1,8 @@
 # Genetic engineering attribution with deep learning.
 
+Preprint: https://www.biorxiv.org/content/10.1101/2020.08.22.262576v1
+More info: https://altlabs.tech/projects/
+
 ## Quick Start
 To reproduce all figures, first clone the repository. Then request the data.
 
